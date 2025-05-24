@@ -1,3 +1,3 @@
 # testing Jenkins
-my first Jenkins from Github
+my first Jenkins from Github.
 
