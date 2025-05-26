@@ -18,11 +18,11 @@ This project demonstrates how to containerize and deploy a WordPress website usi
 └── mytheme/
 
 
-## ⚙️ How to Run
+# How to Run
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/wordpress-docker.git
+git clone https://github.com/Emstev/cba_wordpress.git
 cd wordpress-docker
 
 # Start containers
